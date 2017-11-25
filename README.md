@@ -19,6 +19,6 @@
 ## 使用工具
 #### 資料清理：C、Python、Excel
 #### 資料分析：Python、R
-#### 其他：Google api、Power Point
+#### 其他：Google api、Power Point、DBSCAN套件
 
 
